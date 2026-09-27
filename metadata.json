@@ -1,0 +1,7 @@
+{
+  "name": "Interplanetary Cricket: Analytic Physics Sandbox",
+  "description": "Interactive interplanetary projectile motion physics laboratory featuring cricket trajectories across the Solar System, aerodynamic drag simulation, drone rescue inertia, inclined plane slope physics, and monkey-hunter collision illusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
